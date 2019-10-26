@@ -1,7 +1,8 @@
+import cowList from './components/cowList/cowList';
 import '../styles/main.scss';
 
 const init = () => {
-  console.log('Mooooooo!');
+  cowList.buildCows();
 };
 
 init();
