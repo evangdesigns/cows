@@ -1,7 +1,7 @@
 import '../styles/main.scss';
 
-// const init = () => {
+const init = () => {
+  console.log('Mooooooo!');
+};
 
-// };
-
-// init();
+init();
