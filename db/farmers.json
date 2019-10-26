@@ -1,0 +1,19 @@
+{
+  "farmers": {
+    "farmer1": {
+    "name": "Joe",
+    "age": 71,
+    "location": "Ohio"
+    },
+    "farmer2": {
+    "name": "Bill",
+    "age": 47,
+    "location": "Tennesse"
+    },
+    "farmer3": {
+    "name": "Ted",
+    "age": 23,
+    "location": "Illinois"
+    }
+  }
+}
